@@ -1,0 +1,15 @@
+Netsuite Demo product access
+URI: https://system.na1.netsuite.com
+Username: suraj@netsuite.com
+Password: Same as system password
+
+
+Netsuite system access
+URI: https://system.netsuite.com
+Username: suraj@inspirria.com
+Password: Same as system password
+
+Internet Access
+URI: https://192.168.1.1
+Username: suraj@inspirria.com
+Password: Same as system password
